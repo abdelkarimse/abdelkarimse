@@ -8,6 +8,7 @@
   <h3 style="text-align: center; margin-top: 40px;">Ask me about <strong>React</strong></h3>
 
   <h3 style="text-align: center; margin-top: 30px;">Connect with me:</h3>
+  <h4 style="text-align: center; margin-top: 30px;"><b>Email :</b>  </h4>
    <h3 style="text-align: left; margin-left: 20px;">Languages and Tools:</h3>
   <div style="text-align: left; margin-left: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
