@@ -1,7 +1,7 @@
  <h1 style="font-size: 2.5em; margin-bottom: 10px;">Hi 👋, I'm Abdekarim</h1>
     <h3 style="font-size: 1.5em; margin-bottom: 20px;">I am a Mern Stack developer in Tunisia</h3>
     <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="developers"
-      style="display: block; margin: auto; width: 200px; height: auto; border-radius: 50%; margin-top: 20px;">
+      style="display: block; margin: auto; width: 400px; height: 400px; border-radius: 50%; margin-top: 20px;">
  <a href="https://abdo-protfolio.vercel.app/" target="_blank"
       style="text-decoration: none; color: #007bff; font-weight: bold;">👨‍💻 All of my projects are available here</a>
       
