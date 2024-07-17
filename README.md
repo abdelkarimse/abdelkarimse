@@ -1,23 +1,55 @@
- <h1 style="font-size: 2.5em; margin-bottom: 10px;">Hi 👋, I'm Abdekarim</h1>
-    <h3 style="font-size: 1.5em; margin-bottom: 20px;">I am a Mern Stack developer in Tunisia</h3>
-    <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="developers"
-      style="display: block; margin: auto; width: 400px; height: 400px; border-radius: 50%; margin-top: 20px;">
- <a href="https://abdo-protfolio.vercel.app/" target="_blank"
-      style="text-decoration: none; color: #007bff; font-weight: bold;">👨‍💻 All of my projects are available here</a>
-      
-  <h3 style="text-align: center; margin-top: 40px;">Ask me about <strong>React</strong></h3>
+<h1 style="font-size: 2.5em; margin-bottom: 10px;">Hi 👋, I'm Abdelkarim</h1>
+<h3 style="font-size: 1.5em; margin-bottom: 20px;">Backend Developer & Machine Learning Enthusiast from Tunisia</h3>
 
-  <h3 style="text-align: center; margin-top: 30px;">Connect with me:</h3>
-  <h4 style="text-align: center; margin-top: 30px;"><b>Email :</b>  </h4>
-    <h4 style="text-align: center; margin-top: 30px;"><b>Linkedin :</b> www.linkedin.com/in/abdelkarim-selmi </h4>
+<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="developer" 
+    style="display: block; margin: auto; width: 400px; height: 400px; border-radius: 50%; margin-top: 20px;">
 
-   <h3 style="text-align: left; margin-left: 20px;">Languages and Tools:</h3>
-  <div style="text-align: left; margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="React" style="width: 40px; height: 40px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="JavaScript" style="width: 40px; height: 40px; margin: 5px;">
-      <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<a href="https://abdo-protfolio.vercel.app/" target="_blank"
+    style="text-decoration: none; color: #007bff; font-weight: bold; font-size: 1.2em; display: block; text-align: center; margin-top: 20px;">
+    👨‍💻 Explore My Projects
+</a>
 
+<h3 style="text-align: center; margin-top: 40px;">Ask me about <strong>Backend Development</strong> & <strong>Machine Learning</strong></h3>
 
-  </div>
+<h3 style="text-align: center; margin-top: 30px;">Connect with me:</h3>
+<h4 style="text-align: center; margin-top: 20px;"><b>Email:</b> <a href="mailto:aselmi716@gmail.com">aselmi716@gmail.com</a></h4>
+<h4 style="text-align: center; margin-top: 20px;"><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdelkarim-selmi" target="_blank">www.linkedin.com/in/abdelkarim-selmi</a></h4>
+
+<h3 style="text-align: left; margin-left: 20px;">Languages and Tools:</h3>
+<div style="text-align: left; margin-left: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width: 40px; height: 40px; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" style="width: 40px; height: 40px; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" style="width: 40px; height: 40px; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" style="width: 40px; height: 40px; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px; margin: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" style="width: 40px; height: 40px; margin: 5px;">
+</div>
+
+<h3 style="text-align: left; margin-left: 20px; margin-top: 40px;">My Recent Projects:</h3>
+<div style="text-align: left; margin-left: 20px;">
+    <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px; border-radius: 5px;">
+        <h4>Project Title 1</h4>
+        <p>A brief description of the project goes here. It includes technologies used and the key features of the project.</p>
+        <a href="https://github.com/your-repo-1" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">View on GitHub</a>
+    </div>
+    <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px; border-radius: 5px;">
+        <h4>Project Title 2</h4>
+        <p>A brief description of the project goes here. It includes technologies used and the key features of the project.</p>
+        <a href="https://github.com/your-repo-2" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">View on GitHub</a>
+    </div>
+    <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px; border-radius: 5px;">
+        <h4>Project Title 3</h4>
+        <p>A brief description of the project goes here. It includes technologies used and the key features of the project.</p>
+        <a href="https://github.com/your-repo-3" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">View on GitHub</a>
+    </div>
+</div>
+
+<h3 style="text-align: left; margin-left: 20px; margin-top: 40px;">Skills & Achievements:</h3>
+<div style="text-align: left; margin-left: 20px;">
+    <p>✔ Extensive experience in backend development with Node.js and Express.</p>
+    <p>✔ Proficient in Python for machine learning and data analysis.</p>
+    <p>✔ Strong knowledge of databases including MongoDB and MySQL.</p>
+    <p>✔ Hands-on experience with TensorFlow and machine learning models.</p>
+    <p>✔ Developed and deployed several web applications and machine learning projects.</p>
+</div>
