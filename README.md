@@ -26,24 +26,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" style="width: 40px; height: 40px; margin: 5px;">
 </div>
 
-<h3 style="text-align: left; margin-left: 20px; margin-top: 40px;">My Recent Projects:</h3>
-<div style="text-align: left; margin-left: 20px;">
-    <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px; border-radius: 5px;">
-        <h4>Project Title 1</h4>
-        <p>A brief description of the project goes here. It includes technologies used and the key features of the project.</p>
-        <a href="https://github.com/your-repo-1" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">View on GitHub</a>
-    </div>
-    <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px; border-radius: 5px;">
-        <h4>Project Title 2</h4>
-        <p>A brief description of the project goes here. It includes technologies used and the key features of the project.</p>
-        <a href="https://github.com/your-repo-2" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">View on GitHub</a>
-    </div>
-    <div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px; border-radius: 5px;">
-        <h4>Project Title 3</h4>
-        <p>A brief description of the project goes here. It includes technologies used and the key features of the project.</p>
-        <a href="https://github.com/your-repo-3" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">View on GitHub</a>
-    </div>
-</div>
 
 <h3 style="text-align: left; margin-left: 20px; margin-top: 40px;">Skills & Achievements:</h3>
 <div style="text-align: left; margin-left: 20px;">
