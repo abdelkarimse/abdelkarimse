@@ -25,7 +25,9 @@
 
 ### 🌐 **Let's Connect**
 - **Email:** [aselmi716@gmail.com](mailto:aselmi716@gmail.com)  
-- **LinkedIn:** [Abdelkarim Selmi](https://www.linkedin.com/in/abdelkarim-selmi)  
+- **LinkedIn:** [Abdelkarim Selmi](https://www.linkedin.com/in/abdelkarim-selmi)
+- - **My Website:** [Abdelkarim.tn][(https://www.linkedin.com/in/abdelkarim-selmi](https://abdo-portfolio1.vercel.app/))  
+
 
 ---
 
