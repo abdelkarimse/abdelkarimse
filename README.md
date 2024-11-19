@@ -1,53 +1,78 @@
-<h1 style="font-size: 2.5em; margin-bottom: 10px;">Hi 👋, I'm Abdelkarim</h1>
-<h3 style="font-size: 1.5em; margin-bottom: 20px;">Backend Developer & Machine Learning Enthusiast from Tunisia</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007bff&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelkarim!;Backend+Developer+%26+ML+Enthusiast;Based+in+Tunisia+%E2%9C%8F%EF%B8%8F" alt="Typing SVG" />
+</div>
 
-<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="developer" 
-    style="display: block; margin: auto; width: 400px; height: 400px; border-radius: 50%; margin-top: 20px;">
-
-<a href="https://abdo-protfolio.vercel.app/" target="_blank"
-    style="text-decoration: none; color: #007bff; font-weight: bold; font-size: 1.2em; display: block; text-align: center; margin-top: 20px;">
-    👨‍💻 Explore My Projects
-</a>
-
-<h3 style="text-align: center; margin-top: 40px;">Ask me about <strong>Backend Development</strong> & <strong>Machine Learning</strong></h3>
-
-<h3 style="text-align: center; margin-top: 30px;">Connect with me:</h3>
-<h4 style="text-align: center; margin-top: 20px;"><b>Email:</b> <a href="mailto:aselmi716@gmail.com">aselmi716@gmail.com</a></h4>
-<h4 style="text-align: center; margin-top: 20px;"><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/abdelkarim-selmi" target="_blank">www.linkedin.com/in/abdelkarim-selmi</a></h4>
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdelkarim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdelkarim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Developer" width="300" height="300" style="border-radius: 50%;">
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-<h3 style="text-align: left; margin-left: 20px;">Languages and Tools:</h3>
-<div style="text-align: left; margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" style="width: 40px; height: 40px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" style="width: 40px; height: 40px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" style="width: 40px; height: 40px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" style="width: 40px; height: 40px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" style="width: 40px; height: 40px; margin: 5px;">
+<div align="center">
+  <a href="https://abdo-protfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-%23007bff?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects">
+  </a>
 </div>
 
-<h3 style="text-align: left; margin-left: 20px; margin-top: 40px;">Skills & Achievements:</h3>
-<div style="text-align: left; margin-left: 20px;">
-    <p>✔ Extensive experience in backend development with Node.js and Express.</p>
-    <p>✔ Proficient in Python for machine learning and data analysis.</p>
-    <p>✔ Strong knowledge of databases including MongoDB and MySQL.</p>
-    <p>✔ Hands-on experience with TensorFlow and machine learning models.</p>
-    <p>✔ Developed and deployed several web applications and machine learning projects.</p>
+---
+
+### 🛠 **About Me**
+👨‍💻 Passionate about backend systems and machine learning, with a focus on **Spring** and **Angular** for building modern applications.  
+💡 I enjoy diving deep into **Large Language Models (LLMs)** and experimenting with **TensorFlow** and **Hugging Face** for NLP projects.  
+📚 I'm always learning and exploring the latest in **AI/ML** and **full-stack development**.
+
+---
+
+### 🌐 **Let's Connect**
+- **Email:** [aselmi716@gmail.com](mailto:aselmi716@gmail.com)  
+- **LinkedIn:** [Abdelkarim Selmi](https://www.linkedin.com/in/abdelkarim-selmi)  
+
+---
+
+### 🧰 **Languages and Tools**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="Angular" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+---
+
+### 🚀 **Skills & Achievements**
+- 🔹 Extensive experience in **backend development** with **Node.js**, **Spring**, and **Express.js**.  
+- 🔹 Skilled in **Angular** for building dynamic web applications.  
+- 🔹 Proficient in **Python** and **TensorFlow** for machine learning and data analysis.  
+- 🔹 Experienced with **Hugging Face** for working with pre-trained models and **Large Language Models (LLMs)**.  
+- 🔹 Expertise in databases such as **MongoDB**, **MySQL**, and handling complex data processing tasks.  
+- 🔹 Built and deployed web and machine learning projects with real-world impact.
+
+---
+
+### 📊 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelkarimSelmi&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelkarimSelmi&theme=radical" alt="GitHub Streak" height="165">
 </div>
 
+---
+
+### 📈 **Top Languages**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkarimSelmi&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
+---
+
+### 🎨 **Design Inspirations**
+> *"Code is art, and GitHub is my gallery."*  
+
+<div align="center">
+  🚀 **Happy Coding!** 🚀  
+</div>
