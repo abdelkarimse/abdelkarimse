@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://abdo-protfolio.vercel.app/" target="_blank">
+  <a href="https://abdo-portfolio1.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Explore%20My%20Projects-%23007bff?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Projects">
   </a>
 </div>
@@ -42,8 +42,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original-wordmark.svg" alt="SQL" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeforces/codeforces-plain.svg" alt="Codeforces" width="50" height="50">
 </div>
 
 ---
@@ -60,15 +58,15 @@
 
 ### 📊 **GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelkarimSelmi&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelkarimSelmi&theme=radical" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelkarimse&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelkarimse&theme=radical" alt="GitHub Streak" height="165">
 </div>
 
 ---
 
 ### 📈 **Top Languages**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelkarimSelmi&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkarimse&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
