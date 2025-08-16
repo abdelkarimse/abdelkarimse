@@ -18,7 +18,7 @@
 
 ### 🛠 **About Me**
 👨‍💻 Passionate about backend systems and machine learning, with a focus on **Spring** and **Angular** for building modern applications.  
-💡 I enjoy diving deep into **Large Language Models (LLMs)** and experimenting with **TensorFlow** and **Hugging Face** for NLP projects.  
+💡 I enjoy diving deep into **Large Language Models (LLMs)** .  
 📚 I'm always learning and exploring the latest in **AI/ML** and **full-stack development**.
 
 ---
