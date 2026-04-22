@@ -20,18 +20,17 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const abdelkarim = {
-  name:       "Abdelkarim Selmi",
-  role:       "Backend Developer & ML Enthusiast",
-  location:   "Tunisia 🇹🇳",
-  focus:      ["Spring Boot", "Node.js", "LLMs", "Angular"],
-  passions:   ["System Design", "AI/ML", "Open Source"],
-  contact:    "aselmi716@gmail.com",
-  website:    "https://abdo-portfolio1.vercel.app/",
-  funFact:    "I read ML papers for fun 📄"
-};
-```
+<div align="center">
+
+Hey! I'm **Abdelkarim** — a backend developer and ML enthusiast from ![Tunisia](https://img.shields.io/badge/Tunisia-E70013?style=flat-square&logo=google-maps&logoColor=white) who genuinely loves building things that scale and think.
+
+By day, I craft robust backend systems with ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) and ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white), and design sleek frontends with ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white). By night, I explore the world of ![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white) and fine-tune models on ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black) — because reading ML papers is my version of fun.
+
+I'm passionate about **system design**, **open source**, and the intersection of **AI and real-world applications**. Whether it's optimizing a database query or training a neural net, I care about doing it *right*.
+
+> *"Code is craft. Every line is a decision."*
+
+</div>
 
 ---
 
