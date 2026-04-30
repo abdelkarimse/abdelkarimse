@@ -29,7 +29,7 @@ By day, I craft robust backend systems with ![Spring Boot](https://img.shields.i
 I'm passionate about **system design**, **open source**, and the intersection of **AI and real-world applications**. Whether it's optimizing a database query or training a neural net, I care about doing it *right*.
 
 > *"Code is craft. Every line is a decision."*
-
+[![committers.top badge](https://user-badge.committers.top/tunisia_private/abdelkarimse.svg)](https://user-badge.committers.top/tunisia_private/abdelkarimse)
 </div>
 
 ---
