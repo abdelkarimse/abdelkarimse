@@ -34,25 +34,6 @@ I'm passionate about **agentic systems**, **DevSecOps**, and turning raw researc
 
 ---
 
-## 🤖 AI Agents & LLM Engineering
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    MY AI AGENT STACK                            │
-│                                                                 │
-│   LangGraph ──► Multi-Agent Orchestration & State Machines      │
-│   LangChain ──► Chains, RAG Pipelines & Tool Calling           │
-│   Hugging Face ─► Fine-tuning & Model Hub                      │
-│   TensorFlow ──► Custom Model Training & Deployment            │
-│   OpenAI API ──► GPT-powered Agent Reasoning                   │
-│   Ollama ──────► Local LLM Inference                           │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
