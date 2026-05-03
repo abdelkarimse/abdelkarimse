@@ -118,17 +118,7 @@ I'm passionate about **agentic systems**, **DevSecOps**, and turning raw researc
 
 </div>
 
----
 
-## 📌 What I'm Currently Working On
-
-- 🤖 **Multi-agent RAG system** using LangGraph with memory + tool use
-- 🔍 **Fine-tuning** Arabic NLP models on Hugging Face
-- 🔒 **Integrating SonarQube + Snyk** into Spring Boot CI/CD pipelines
-- 🐳 **Dockerizing** ML inference servers with FastAPI backends
-- 📖 **Reading:** *Designing Machine Learning Systems* by Chip Huyen
-
----
 
 ## 🌐 Connect With Me
 
