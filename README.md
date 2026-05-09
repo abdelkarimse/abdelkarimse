@@ -28,8 +28,7 @@ I'm passionate about **agentic systems**, **DevSecOps**, and turning raw researc
 
 > *"Code is craft. Every line is a decision."*
 
-[![committers.top badge](https://user-badge.committers.top/tunisia_private/abdelkarimse.svg)](https://user-badge.committers.top/tunisia_private/abdelkarimse)
-
+[![committers.top badge](https://user-badge.committers.top/tunisia/abdelkarimse.svg)](https://user-badge.committers.top/tunisia/abdelkarimse)
 </div>
 
 ---
